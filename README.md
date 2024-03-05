@@ -1,9 +1,9 @@
-# Robotic Arm Control System
+# Robotic Arm Control Using PS4
 
 This repository contains code and 3D models for a robotic arm developed using Arduino Uno and ESP32 Bluetooth module.
 
 ## Original 3D Models and Information
-- Original 3D Models and information about the EEZYbotARM-Mk2 can be found [here](http://www.eezyrobots.it/eba_mk2.html).
+- Original 3D Models and information about the EEZYbotARM-Mk2 4 DoF robotic arm can be found [here](http://www.eezyrobots.it/eba_mk2.html).
 - The gripper used in this project was swapped out for a larger and stronger one. If you wish to use this, find under 3D Models.
    
 ## Documentation
